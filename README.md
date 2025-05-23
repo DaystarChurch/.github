@@ -1,4 +1,4 @@
-![Daystar Logo](/assests/DaystarLogo-small.png)
+![Daystar Logo](assets/DaystarLogo-small.png)
 # Welcome to Daystar's GitHub Organization
 
 ## Mission
