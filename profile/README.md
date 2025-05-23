@@ -1,6 +1,6 @@
 # Welcome to Daystar's GitHub Organization
 
-![Daystar Logo](assets/DaystarLogo-small.png)
+![Daystar Logo](/assets/DaystarLogo-small.png)
 
 ## Mission
 
